@@ -39,12 +39,13 @@ See the report's Discussion section for full analysis of why the retrieval basel
 multilingual_qa/
 ├── multilingual_health_qa_starter_notebook.ipynb   # Main notebook — runs end-to-end on Colab
 ├── submissions/
-│   ├── submission_exp01_tfidf.csv
-│   ├── submission_exp03_mt5small_noprompt.csv
-│   ├── submission_exp04_mt5small_prompt.csv
-│   ├── submission_exp05_mt5small_5epochs.csv
-│   ├── submission_exp06_mt5base.csv
-│   └── submission_exp07_mt5base_beamsearch.csv
+│   ├── submission_tfidf_baseline.csv
+│   ├── submission_llm_baseline.csv
+│   ├── submission_exp3.csv
+│   ├── submission_exp4.csv
+│   ├── submission_exp5.csv
+    ├── submission_exp6.csv
+│   └── submission_exp7.csv
 ├── screenshots/
 │   └── leaderboard_progression/                    # Zindi leaderboard screenshots
 ├── report/
